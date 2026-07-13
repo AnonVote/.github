@@ -132,7 +132,7 @@ npm run dev
 | **[core](https://github.com/AnonVote/core)**           | Main application (backend + frontend) | Express, React, Prisma, PostgreSQL |
 | **[js](https://github.com/AnonVote/js)**               | Cryptographic primitives & types      | TypeScript, Node.js crypto         |
 | **[contracts](https://github.com/AnonVote/contracts)** | Soroban smart contracts               | Rust, Stellar Soroban SDK          |
-| **[protocol](https://github.com/AnonVote/protocol)**   | Whitepaper & specifications           | Markdown, diagrams                 |
+| **[docs](https://github.com/AnonVote/docs)**           | Whitepaper & specifications           | Markdown, diagrams                 |
 
 ---
 
@@ -277,7 +277,7 @@ Please email **security@anonvote.app** (do not post publicly)
 - **[Core Docs](https://github.com/AnonVote/core/blob/main/README.md)** – Setup, API reference, deployment
 - **[Crypto Docs](https://github.com/AnonVote/js/blob/main/README.md)** – Cryptographic primitives
 - **[Contract Docs](https://github.com/AnonVote/contracts/blob/main/README.md)** – Smart contract guide
-- **[Whitepaper](https://github.com/AnonVote/protocol/blob/main/WHITEPAPER.md)** – Formal specification
+- **[Whitepaper](https://github.com/AnonVote/docs/blob/main/WHITEPAPER.md)** – Formal specification
 
 ---
 

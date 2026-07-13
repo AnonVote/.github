@@ -151,7 +151,7 @@ AnonVote is a privacy-preserving voting platform that separates voter identity f
 | **[core](https://github.com/AnonVote/core)**           | Express backend + React frontend + Prisma + PostgreSQL           |
 | **[js](https://github.com/AnonVote/js)**               | `@anonvote/crypto` — shared crypto primitives + TypeScript types |
 | **[contracts](https://github.com/AnonVote/contracts)** | Soroban smart contracts (Rust) + service wrappers (TypeScript)   |
-| **[protocol](https://github.com/AnonVote/protocol)**   | Whitepaper, specs, security analysis, token flow diagrams        |
+| **[docs](https://github.com/AnonVote/docs)**           | Whitepaper, specs, security analysis, token flow diagrams        |
 
 ---
 
@@ -278,7 +278,7 @@ We welcome contributions! Areas for help:
 - **Backend** – API enhancements, performance optimization
 - **Smart Contracts** – Rust contract improvements, security audits
 - **Crypto** – `@anonvote/crypto` package enhancements
-- **Documentation** – Protocol specs, deployment guides, tutorials
+- **Documentation** – Specs, deployment guides, tutorials
 - **Testing** – Unit tests, integration tests, property-based tests
 - **Security** – Vulnerability reports (security@anonvote.app)
 
